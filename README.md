@@ -9,5 +9,4 @@
 
 Стек: SQL, UML, BPMN 2.0, User Story, ERD, DFD, REST API, JSON, Postman, Swagger, SOA, Use case, User Story Mapping, Agile, Atlassian Confluence
 
-**Активно ищу работу
-**
+Активно ищу работу
